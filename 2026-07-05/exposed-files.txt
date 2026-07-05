@@ -1,0 +1,23 @@
+=== EXPOSED FILES ===
+--- https://www.linkedin.com/.env ---
+HTTP 404 | Size: 364780
+--- https://www.linkedin.com/.git/config ---
+HTTP 404 | Size: 364780
+--- https://www.linkedin.com/dump.sql ---
+HTTP 404 | Size: 364780
+--- https://www.linkedin.com/admin ---
+HTTP 200 | Size: 5
+--- https://www.linkedin.com/api ---
+HTTP 404 | Size: 364780
+--- https://www.linkedin.com/robots.txt ---
+HTTP 200 | Size: 117396
+--- https://www.linkedin.com/.htaccess ---
+HTTP 404 | Size: 364780
+--- https://www.linkedin.com/backup ---
+HTTP 404 | Size: 364780
+--- https://www.linkedin.com/wp-admin ---
+HTTP 404 | Size: 364780
+--- https://www.linkedin.com/crossdomain.xml ---
+HTTP 404 | Size: 364780
+--- https://www.linkedin.com/sitemap.xml ---
+HTTP 404 | Size: 364780
